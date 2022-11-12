@@ -1,0 +1,11 @@
+
+Overview:
+   The file "Mag_Grav_Grav1vd" holds magnetic and gravity survey data from a
+   site near Cloncurry (east of Mount Isa, Queensland).
+
+Fields:
+   X: longitude (degrees east).
+   Y: latitude (degrees north).
+   Mag: Reduced to Pole magnetic map (nT).
+   Grav: Bouguer gravity anomaly map (mGal).
+   Grav_1vd: 1st vertical derivative of complete Bouguer gravity anomaly map (mGal/m).
