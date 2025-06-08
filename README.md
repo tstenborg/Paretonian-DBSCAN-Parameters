@@ -8,4 +8,4 @@ Low-cost Pareto-like parameter estimation for sklearn's DBSCAN.
 
 These files may be used in conjunction with e.g., Visual Studio Code.
 
-Reference: Stenborg, TN, Silversides, K 2022, "[Low-cost Paretonian DBSCAN Parameter Estimation for Sklearn](https://www.australiandatascience.net/wp-content/uploads/2022/11/ADSN22_Proceedings.pdf)" Proc. of the Australian Data Science Network Conf. 2022, Australian Data Science Network, pp. 8–9.
+Reference: Stenborg, TN, Silversides, K 2022, "[Low-cost Paretonian DBSCAN Parameter Estimation for Sklearn](https://www.australiandatascience.net/wp-content/uploads/2022/11/ADSN22_Proceedings.pdf)" Proc. of the Australian Data Science Network Conf. 2022, Australian Data Science Network, pp. 8&ndash;9.
